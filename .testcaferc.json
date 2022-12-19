@@ -1,0 +1,7 @@
+{
+	"screenshots": {
+		"path": "test-artifacts/screenshots",
+		"pathPattern": "${TEST_ID}_${FILE_INDEX}_${DATE}_${TIME}_${BROWSER}${RUN_ID}.png",
+		"takeOnFails": true
+	}
+}
